@@ -1,1 +1,6 @@
 plik 2
+1) inicjalizacja nowego repo
+2) utworzenie  3 plików
+3) dodanie plików do index'u
+4) zmodyfikowanie utworzonych plików tak żebyśmy w historii mieli 10 commitów
+5) usunięcie jakichś plików
