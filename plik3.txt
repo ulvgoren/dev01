@@ -6,3 +6,4 @@ plik 3
 3) dodanie plików do index'u
 4) zmodyfikowanie utworzonych plików tak żebyśmy w historii mieli 10 commitów
 5) usunięcie jakichś plików
+## koniec zawartosci pliku plik1.txt
