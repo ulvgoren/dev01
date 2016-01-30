@@ -1,0 +1,2 @@
+1) inicjalizacja nowego repo
+2) utworzenie  3 plików
